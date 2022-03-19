@@ -1,7 +1,35 @@
 ## Using Multiple Instance Learning for Explainable Solar Flare Prediction
 
-This github repository provides data, code and some results for the paper (coming soon).
+This github repository provides data, code and some results for the paper.
 
+### Getting the data
+
+The data file is available via Zenodo: [link] (8.8 Gb, Numpy npz-Format)
+
+### Running the code
+
+The code was run on Python 3.6.9 and with the package versions listed in the requirements.txt file.
+To run it, adhere to the following steps:
+
+1. Create a virtual environment and install the required packages, e.g. with
+
+```
+virtualenv -p python3 irismil_env
+source irismil_venv/bin/activate
+pip install -r requirements.txt
+```
+
+2. Run the `model_runner.py` script with 
+
+```
+python model_runner.py <model_name> <parameter_value> <runs_per_fold>
+```
+
+e.g. to run an ibMIL model with r=3 and ten runs for each of the three CV-folds:
+
+```
+python model_runner.py ibMIL 3 10
+```
 
 ### Videos (10 September 2014 Flare)
 

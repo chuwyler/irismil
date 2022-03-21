@@ -4,14 +4,14 @@ This github repository provides data, code and some results for the paper.
 
 ### Getting the data
 
-The data file is available via Zenodo: [link] (8.8 Gb, Numpy npz-Format)
+The dataset available via Zenodo: [IRIS Multiple Instance Learning Dataset](https://zenodo.org/record/6370336) (9.4 Gb, Numpy npz-Format)
 
 ### Running the code
 
 The code was run on Python 3.6.9 and with the package versions listed in the requirements.txt file.
 To run it, adhere to the following steps:
 
-1. Create a virtual environment and install the required packages, e.g. with
+1. Create a virtual environment and install the required packages, e.g. with `virtualenv`:
 
 ```
 virtualenv -p python3 irismil_env

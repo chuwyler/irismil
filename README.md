@@ -4,7 +4,9 @@ This github repository provides data, code and some results for the paper.
 
 ### Getting the data
 
-The dataset available via Zenodo: [IRIS Multiple Instance Learning Dataset](https://zenodo.org/record/6370336) (9.4 Gb, Numpy npz-Format)
+The dataset is available via Zenodo: 
+
+[IRIS Multiple Instance Learning Dataset](https://zenodo.org/record/6370336) (9.4 Gb, Numpy npz-Format)
 
 ### Running the code
 

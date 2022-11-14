@@ -1,6 +1,9 @@
 ## Using Multiple Instance Learning for Explainable Solar Flare Prediction
 
-This github repository provides data, code and some results for the paper.
+This github repository provides data, code and some results for the paper:
+
+* Official version on Astronomy & Computing: https://authors.elsevier.com/sd/article/S2213-1337(22)00082-8
+* Pre-print on arXiv: https://arxiv.org/abs/2203.13896
 
 ### Getting the data
 

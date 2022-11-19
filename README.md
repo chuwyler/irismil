@@ -40,9 +40,14 @@ python model_runner.py ibMIL 3 10
 
 Pre-flare phase only:
 
-https://user-images.githubusercontent.com/33490926/150113373-f3e4b2a6-a0db-4fcf-8e3a-ba5aece3aca3.mp4
+https://user-images.githubusercontent.com/33490926/202858718-be83c44f-36c6-48a7-b599-c554ac9f552b.mp4
+
 
 Whole observation:
 
-https://user-images.githubusercontent.com/33490926/150113340-83140834-a1a0-4a4b-8920-2352de10455e.mp4
+https://user-images.githubusercontent.com/33490926/202858737-35c7cfc2-5f8d-4e80-a06e-4b68b0a07b12.mp4
+
+
+
+
 
